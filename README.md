@@ -1,2 +1,20 @@
-# hospital-management-sql-project
-Designed and developed a real-world Hospital Management System using MySQL to manage patients, doctors, appointments, billing, and pharmacy records. Worked on database design, table relationships, joins, views, and analytical SQL queries to simulate actual hospital operations and reporting.
+# Hospital Management System (SQL Project)
+
+## Project Overview
+This project is a Hospital Management Database built using SQL.
+
+## Features
+- Patient Management
+- Doctor Management
+- Appointment Tracking
+- Billing Records
+
+## SQL Concepts Used
+- Joins
+- Primary Key
+- Foreign Key
+- CRUD Operations
+- Aggregate Functions
+
+## Tools Used
+- MySQL
